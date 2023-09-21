@@ -6,7 +6,7 @@
 
                     
 
-<p align="left">full time noob, part time tinkerer.</p>
+<p align="center">full time noob, part time tinkerer.</p>
 <p align="left"> 
   <a href="https://github.com/0xshariq?tab=repositories&sort=stargazers#gh-light-mode-only">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/0xshariq?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
