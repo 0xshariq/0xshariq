@@ -28,7 +28,7 @@
 
 <h2>Languages and Tools</h2> 
 <p align="left">
-<img width="280px"  src="https://skillicons.dev/icons?i=html,css,js,md,git,github,react,next,tailwind&perline=9"  />
+<img width="280px"  src="https://skillicons.dev/icons?i=html,css,js,md,git,github,react,next,tailwind,bootstrap, &perline=9"  />
 </p>
 <br />
 
