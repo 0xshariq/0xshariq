@@ -73,6 +73,8 @@
 <p><a href="https://github.com/0xshariq/0xshariq#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=0xshariq&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
 <p><a href="https://github.com/0xshariq/extra-care-medical-center#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=extra-care-medical-center&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
 <p><a href="https://github.com/0xshariq/extra-care-medical-center#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=extra-care-medical-center&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
+<p><a href="https://github.com/0xshariq/qurannextapp#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=qurannextapp&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
+<p><a href="https://github.com/0xshariq/qurannextapp#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=qurannextapp&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
 <br />
 
 
