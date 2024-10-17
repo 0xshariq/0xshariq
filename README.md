@@ -1,4 +1,4 @@
-<h1>⚒️ Shariq Choudhary</h1>
+<h1>⚒️ Shariq Chaudhary</h1>
 <br /> 
 
                     
