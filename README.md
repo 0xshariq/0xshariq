@@ -44,11 +44,6 @@
 <br>
 <br />
 
-<p><a href="https://github.com/0xshariq#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=0xshariq&theme=nightowl#gh-dark-mode-only" alt="0xshariq"/></a>
-<a href="https://github.com/0xshariq#gh-light-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=0xshariq&theme=vue#gh-light-mode-only" alt="0xshariq"/></a></p>
-<br/>
-<br />
-
 <p><a href="https://github.com/0xshariq#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=0xshariq&theme=nightowl#gh-dark-mode-only" alt="0xshariq" /></a>
 <a href="https://github.com/0xshariq#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=0xshariq&theme=vue#gh-light-mode-only" alt="0xshariq" /></a></p>
 <br/>
