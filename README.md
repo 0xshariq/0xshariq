@@ -53,16 +53,6 @@
 <a href="https://github.com/0xshariq#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=0xshariq&theme=vue#gh-light-mode-only" alt="0xshariq" /></a></p>
 <br/>
 
-
-
-<p><a href="https://github.com/0xshariq#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-streak-stats-seven-chi.vercel.app?user=0xshariq&theme=nightowl#gh-dark-mode-only" alt="refresh page if you're not seeing this." /></a>
-<a href="https://github.com/0xshariq#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-streak-stats-seven-chi.vercel.app?user=0xshariq&theme=vue#gh-light-mode-only" alt="refresh page if you're not seeing this." /></a></p>
-<br/>
-<br />
-
-<p><a href="https://github.com/0xshariq#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=0xshariq&theme=nightowl#gh-dark-mode-only" alt="refresh page if you're not seeing this." /></a>
-<a href="https://github.com/0xshariq#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=0xshariq&theme=vue#gh-light-mode-only" alt="refresh page if you're not seeing this." /></a></p>
-<br/>
 ---
 
 <h2>My Latest Projects</h2> 
