@@ -53,6 +53,9 @@
 <a href="https://github.com/0xshariq#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=0xshariq&theme=vue#gh-light-mode-only" alt="refresh page if you're not seeing this." /></a></p>
 <br/>
 
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/0xshariq/0xshariq/output/only-svg/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/0xshariq/0xshariq/output/only-svg/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 ---
 
 <h2>My Best Projects</h2> 
