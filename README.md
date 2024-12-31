@@ -66,6 +66,13 @@
 <br />
 <p><a href="https://github.com/0xshariq/service-website#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=service-website&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
 <p><a href="https://github.com/0xshariq/service-website#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=service-website&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
+<br/>
+<p><a href="https://github.com/0xshariq/portfolio-website#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=portfolio-website&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
+<p><a href="https://github.com/0xshariq/portfolio-website#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=portfolio-website&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
+<br/>
+<p><a href="https://github.com/0xshariq/saas-landing-page-app#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=saas-landing-page-app&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
+<p><a href="https://github.com/0xshariqsaas-landing-page-app#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=saas-landing-page-app&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
+
 
 <h2>Connect With Me</h2> 
 <p align="left">
