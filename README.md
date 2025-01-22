@@ -1,6 +1,9 @@
 <h1>⚒️ Shariq Chaudhary</h1>
 <br /> 
 
+# Portfolio
+[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-Click%20Here-blue?style=for-the-badge)](https://portfolio-sigma-rose-22.vercel.app/)
+
 **`Digital Craftsman (Developer/Programmer)`** 
 
 <p align="center">Full-time learner, part-time tinkerer.</p>
