@@ -63,7 +63,8 @@
 <br/>
 
 ---
-
+![snake gif](https://github.com/0xshariq/0xshariq/blob/output/github-contribution-grid-snake.svg)
+---
 <h2>My Best Projects</h2>
 <br />
 <p><a href="https://github.com/0xshariq/quran-next-app#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=quran-next-app&theme=nightowl#gh-dark-mode-only"></a>
