@@ -81,8 +81,8 @@
 <p><a href="https://github.com/0xshariq/saas-landing-page-app#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=saas-landing-page-app&theme=nightowl#gh-dark-mode-only"></a>
 <p><a href="https://github.com/0xshariq/saas-landing-page-app#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=saas-landing-page-app&theme=vue#gh-light-mode-only"></a>
 <br/>
-<p><a href="https://github.com/0xshariq/saas-landing-page-app#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=saas-landing-page-app&theme=nightowl#gh-dark-mode-only"></a>
-<p><a href="https://github.com/0xshariq/saas-landing-page-app#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=saas-landing-page-app&theme=vue#gh-light-mode-only"></a>
+<p><a href="https://github.com/0xshariq/weather-api#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=weather-api&theme=nightowl#gh-dark-mode-only"></a>
+<p><a href="https://github.com/0xshariq/weather-api#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=weather-api&theme=vue#gh-light-mode-only"></a>
 
 ---
 <h2>Connect With Me</h2>
