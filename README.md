@@ -63,8 +63,6 @@
 <br/>
 
 ---
-![snake gif](https://github.com/0xshariq/0xshariq/blob/output/github-contribution-grid-snake.svg)
----
 <h2>My Best Projects</h2>
 <br />
 <p><a href="https://github.com/0xshariq/quran-next-app#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=quran-next-app&theme=nightowl#gh-dark-mode-only"></a>
@@ -82,7 +80,11 @@
 <br/>
 <p><a href="https://github.com/0xshariq/saas-landing-page-app#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=saas-landing-page-app&theme=nightowl#gh-dark-mode-only"></a>
 <p><a href="https://github.com/0xshariq/saas-landing-page-app#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=saas-landing-page-app&theme=vue#gh-light-mode-only"></a>
+<br/>
+<p><a href="https://github.com/0xshariq/saas-landing-page-app#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=saas-landing-page-app&theme=nightowl#gh-dark-mode-only"></a>
+<p><a href="https://github.com/0xshariq/saas-landing-page-app#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=saas-landing-page-app&theme=vue#gh-light-mode-only"></a>
 
+---
 <h2>Connect With Me</h2>
 <p align="left">
 <a href="https://x.com/Sharique_Ch" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x.com/Sharique_Ch"></a>
