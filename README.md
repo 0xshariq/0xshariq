@@ -86,6 +86,9 @@
 <br/>
 <p><a href="https://github.com/0xshariq/quran-api#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=quran-api&theme=nightowl#gh-dark-mode-only"></a>
 <p><a href="https://github.com/0xshariq/quran-api#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=quran-api&theme=vue#gh-light-mode-only"></a>
+<br/>
+<p><a href="https://github.com/0xshariq/user_authentication_api#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=user_authentication_api&theme=nightowl#gh-dark-mode-only"></a>
+<p><a href="https://github.com/0xshariq/user_authentication_api#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=user_authentication_api&theme=vue#gh-light-mode-only"></a>
 
 ---
 <h2>Connect With Me</h2>
