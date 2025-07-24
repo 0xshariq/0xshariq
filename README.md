@@ -89,7 +89,7 @@
 <br/>
 <p><a href="https://github.com/0xshariq/Learning-Management-System#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=Learning-Management-System&theme=nightowl#gh-dark-mode-only"></a>
 <p><a href="https://github.com/0xshariq/Learning-Management-System#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=Learning-Management-System&theme=vue#gh-light-mode-only"></a>
----
+
 <h2>Connect With Me</h2>
 <p align="left">
 <a href="https://x.com/Sharique_Ch" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x.com/Sharique_Ch"></a>
