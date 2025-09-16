@@ -28,18 +28,43 @@
 ---
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Node JS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React JS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
-![Next JS](https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=%2361DAFB)
-![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="left">
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=js"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=html"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=css"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=bootstrap"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=c"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=cpp"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=express"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=nest"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=figma"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=git"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=github"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=java"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=mongodb"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=mysql"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=postgres"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=redis"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=linux"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=nextjs"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=react"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=solidity"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=tailwind"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=vscode"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=bash"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=supabase"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=aws"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=docker"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=md"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=nodejs"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=postman"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=prisma"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=redux"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=rust"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=sass"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=ts"  />
+
+</p>
 
 <p><a href="https://github.com/0xshariq#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xshariq&langs_count=6&show_icon=true&theme=nightowl#gh-dark-mode-only"></a>
   <a href="https://github.com/0xshariq#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xshariq&langs_count=6&show_icon=true&theme=vue#gh-light-mode-only"></a>
