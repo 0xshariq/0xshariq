@@ -36,7 +36,6 @@
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=c"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=cpp"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=express"  />
-<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=nest"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=figma"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=git"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=github"  />
