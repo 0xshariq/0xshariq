@@ -60,6 +60,8 @@
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=prisma"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=redux"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=rust"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=go"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=ruby"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=sass"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=ts"  />
 
