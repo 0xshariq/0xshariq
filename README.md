@@ -89,32 +89,6 @@
 <br/>
 
 ---
-<h2>My Best Projects</h2>
-<br />
-<p><a href="https://github.com/0xshariq/quran-next-app#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=quran-next-app&theme=nightowl#gh-dark-mode-only"></a>
-<p><a href="https://github.com/0xshariq/quran-next-app#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=quran-next-app&theme=vue#gh-light-mode-only"></a>
-<br />
-
-<p><a href="https://github.com/0xshariq/extra-care-medical-center#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=extra-care-medical-center&theme=nightowl#gh-dark-mode-only"></a>
-<p><a href="https://github.com/0xshariq/extra-care-medical-center#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=extra-care-medical-center&theme=vue#gh-light-mode-only"></a>
-<br />
-<p><a href="https://github.com/0xshariq/service-website#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=service-website&theme=nightowl#gh-dark-mode-only"></a>
-<p><a href="https://github.com/0xshariq/service-website#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=service-website&theme=vue#gh-light-mode-only"></a>
-<br/>
-<p><a href="https://github.com/0xshariq/portfolio-website#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=portfolio-website&theme=nightowl#gh-dark-mode-only"></a>
-<p><a href="https://github.com/0xshariq/portfolio-website#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=portfolio-website&theme=vue#gh-light-mode-only"></a>
-<br/>
-<p><a href="https://github.com/0xshariq/saas-landing-page-app#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=saas-landing-page-app&theme=nightowl#gh-dark-mode-only"></a>
-<p><a href="https://github.com/0xshariq/saas-landing-page-app#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=saas-landing-page-app&theme=vue#gh-light-mode-only"></a>
-<br/>
-<p><a href="https://github.com/0xshariq/Profession-Predictor#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=Profession-Predictor&theme=nightowl#gh-dark-mode-only"></a>
-<p><a href="https://github.com/0xshariq/Profession-Predictor#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=Profession-Predictor&theme=vue#gh-light-mode-only"></a>
-<br/>
-<p><a href="https://github.com/0xshariq/api-docs#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=api-docs&theme=nightowl#gh-dark-mode-only"></a>
-<p><a href="https://github.com/0xshariq/api-docs#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=api-docs&theme=vue#gh-light-mode-only"></a>
-<br/>
-<p><a href="https://github.com/0xshariq/Learning-Management-System#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=Learning-Management-System&theme=nightowl#gh-dark-mode-only"></a>
-<p><a href="https://github.com/0xshariq/Learning-Management-System#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xshariq&repo=Learning-Management-System&theme=vue#gh-light-mode-only"></a>
 
 <h2>Connect With Me</h2>
 <p align="left">
