@@ -52,6 +52,7 @@
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=vscode"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=bash"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=supabase"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=appwrite"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=aws"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=docker"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=md"  />
