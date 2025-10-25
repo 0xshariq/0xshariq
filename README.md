@@ -1,4 +1,4 @@
-<h1>⚒️ Shariq Chaudhary</h1>
+<h1>⚒️ Sharique Chaudhary</h1>
 <br />
 
 # Portfolio
