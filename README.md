@@ -65,6 +65,7 @@
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=ruby"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=sass"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=ts"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=lingo.dev"  />
 
 </p>
 
