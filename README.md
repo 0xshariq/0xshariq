@@ -7,7 +7,9 @@
 <p align="center">
   Full-time learner, part-time tinkerer.
 </p>
-
+<p align="center">
+  <img src="./105417.gif" height = "200px" width="100%" alt="dark cinematic code loop" style="object-fit: cover;>
+</p>
 ---
 
 ## 🌐 Portfolio
