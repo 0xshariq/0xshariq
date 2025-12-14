@@ -55,12 +55,19 @@
 ## 🧠 Most Used Languages
 <p align="center">
   <a href="https://github.com/0xshariq#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xshariq&langs_count=6&theme=nightowl" />
+    <img 
+      src="https://0xshariq-readme-stats.vercel.app/api/top-langs/?username=0xshariq&layout=compact&langs_count=12&include_forks=true&theme=nightowl"
+      alt="Most Used Languages (Dark)"
+    />
   </a>
   <a href="https://github.com/0xshariq#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xshariq&langs_count=6&theme=vue" />
+    <img 
+      src="https://0xshariq-readme-stats.vercel.app/api/top-langs/?username=0xshariq&layout=compact&langs_count=12&include_forks=true&theme=vue"
+      alt="Most Used Languages (Light)"
+    />
   </a>
 </p>
+
 
 ---
 
