@@ -27,7 +27,7 @@
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack :
 <p align="left">
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=js"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=html"  />
@@ -67,29 +67,32 @@
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=ts"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=lingo.dev"  />
 
+</p>
 ---
 
-</p>
-
+# Most Used Languages :
 <p><a href="https://github.com/0xshariq#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xshariq&langs_count=6&show_icon=true&theme=nightowl#gh-dark-mode-only"></a>
   <a href="https://github.com/0xshariq#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xshariq&langs_count=6&show_icon=true&theme=vue#gh-light-mode-only"></a>
 </p>
 
 ---
 
+# GitHub Stats :
 <p>&nbsp;<a href="https://github.com/0xshariq#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=0xshariq&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only"></a>
 <a href="https://github.com/0xshariq#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=0xshariq&count_private=true&show_icons=true&theme=vue#gh-light-mode-only"></a>
 </p>
 
 ---
 
+# Streaks
 <p><a href="https://github.com/0xshariq#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-streak-stats-seven-chi.vercel.app?user=0xshariq&theme=nightowl#gh-dark-mode-only"></a>
-<a href="https://github.com/0xshariq#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-streak-stats-seven-chi.vercel.app?user=0xshariq&theme=vue#gh-light-mode-only"></a>
+<a href="https://github.com/0xshariq#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-streak-stats-seven-chi.vercel.app?user=0xshariq&theme=vue#gh-light-mode-only"></a></p>
 
 ---
 
+# Contribution Graph
 <p><a href="https://github.com/0xshariq#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=0xshariq&theme=nightowl#gh-dark-mode-only"></a>
-<a href="https://github.com/0xshariq#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=0xshariq&theme=vue#gh-light-mode-only"></a>
+<a href="https://github.com/0xshariq#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=0xshariq&theme=vue#gh-light-mode-only"></a></p>
 
 
 ---
