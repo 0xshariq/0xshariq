@@ -67,8 +67,8 @@
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=ts"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=lingo.dev"  />
 
-</p>
 ---
+</p>
 
 # Most Used Languages :
 <p><a href="https://github.com/0xshariq#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xshariq&langs_count=6&show_icon=true&theme=nightowl#gh-dark-mode-only"></a>
