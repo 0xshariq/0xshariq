@@ -10,7 +10,6 @@
 <p align="center">
   Full-time learner, part-time tinkerer.
 </p>
----
 
 ## 🌐 Portfolio
 <p align="center">
