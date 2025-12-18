@@ -1,6 +1,6 @@
 <h1 align="center">⚒️ Sharique Chaudhary</h1>
 <p align="center">
-  <img src="./105417.gif" height = "200px" width="100%" alt="dark cinematic code loop" style="object-fit: cover;>
+  <img src="./105417.gif" height = "500px" width="100%" alt="dark cinematic code loop" style="object-fit: cover;>
 </p>
 
 <p align="center">
