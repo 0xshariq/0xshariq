@@ -3,7 +3,7 @@
   <img src="./105417.gif" height = "500px" width="100%" alt="dark cinematic code loop" style="object-fit: cover;>
 </p>
 
-![](./src/header_.png)
+![](./header_.png)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There+%F0%9F%91%8B%2C+I+am+Sharique+Chaudhary.;Founder+of+Upcoming+Developer+Infrastructure+Ecosystem.;Full+Stack+Developer.;System+Design+Enthusiast.;Currently+Working+on+the+Dev+Ecosystem.;Developer+%E2%80%A2+Programmer+%E2%80%A2+Curious+Engineer;Full-time+learner%2C+part-time+tinkerer.)](https://git.io/typing-svg)
 
 ## 🌐 Portfolio
