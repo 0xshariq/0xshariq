@@ -8,7 +8,7 @@
 
 ## 🌐 Portfolio
 <p align="center">
-  <a href="https://portfolio-sigma-rose-22.vercel.app/" target="_blank">
+  <a href="https://sharique.me/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
   </a>
 </p>
